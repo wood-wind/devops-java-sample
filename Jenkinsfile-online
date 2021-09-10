@@ -15,7 +15,7 @@ pipeline {
         KUBECONFIG_CREDENTIAL_ID = 'kubeconfig'
         REGISTRY = 'k8s1:30002'
         DOCKERHUB_NAMESPACE = 'project'
-        GITHUB_ACCOUNT = 'Littlefive.think@gmail.com'
+        GITHUB_ACCOUNT = 'wood-wind'
         APP_NAME = 'devops-java-sample'
     }
 
